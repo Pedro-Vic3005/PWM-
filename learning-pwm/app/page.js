@@ -2,8 +2,8 @@
 
 export default function Home() {
   return (
-    <div>
-      Fala Galeraa!!!
+    <div style= {{fontSize:"32px"}}>
+      PVGA3005
     </div>
   );
 }
