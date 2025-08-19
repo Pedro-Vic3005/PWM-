@@ -6,7 +6,7 @@ export default function Home() {
       <h1>PVGA3005!</h1>
       <img src="assets/steveimage.jpg" width="350" height="400"/>  
       <pre>
-        Uma descrição de um aluno super dedicado
+        Uma descrição de um aluno super dedicada
       </pre>
 
       <p>
