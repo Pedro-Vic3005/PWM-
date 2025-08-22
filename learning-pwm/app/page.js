@@ -8,7 +8,7 @@ export default function Home() {
       <img src="assets/pedrovictor.jpeg" width="300" height="400" />  
       
       <p>
-        Olá, eu sou Pedro Victor!!! <br></br>
+        Olá, eu sou Pedro Victor!!! <br> </br>
         Welcome!<br></br>
         Estudo Ciências da Computação e me encontro no 5⁰ período. Estou sempre disposto 
         à aprender coisas novas, dedicação é a minha maior qualidade! Participo do 
